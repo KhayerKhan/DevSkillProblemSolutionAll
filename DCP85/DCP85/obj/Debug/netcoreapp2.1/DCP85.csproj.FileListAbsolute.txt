@@ -1,0 +1,11 @@
+F:\asp.netProject\DCP85\DCP85\bin\Debug\netcoreapp2.1\DCP85.deps.json
+F:\asp.netProject\DCP85\DCP85\bin\Debug\netcoreapp2.1\DCP85.runtimeconfig.json
+F:\asp.netProject\DCP85\DCP85\bin\Debug\netcoreapp2.1\DCP85.runtimeconfig.dev.json
+F:\asp.netProject\DCP85\DCP85\bin\Debug\netcoreapp2.1\DCP85.dll
+F:\asp.netProject\DCP85\DCP85\bin\Debug\netcoreapp2.1\DCP85.pdb
+F:\asp.netProject\DCP85\DCP85\obj\Debug\netcoreapp2.1\DCP85.csproj.CoreCompileInputs.cache
+F:\asp.netProject\DCP85\DCP85\obj\Debug\netcoreapp2.1\DCP85.AssemblyInfoInputs.cache
+F:\asp.netProject\DCP85\DCP85\obj\Debug\netcoreapp2.1\DCP85.AssemblyInfo.cs
+F:\asp.netProject\DCP85\DCP85\obj\Debug\netcoreapp2.1\DCP85.dll
+F:\asp.netProject\DCP85\DCP85\obj\Debug\netcoreapp2.1\DCP85.pdb
+F:\asp.netProject\DCP85\DCP85\obj\Debug\netcoreapp2.1\DCP85.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+F:\asp.netProject\dcp439\dcp439\bin\Debug\netcoreapp2.1\dcp439.deps.json
+F:\asp.netProject\dcp439\dcp439\bin\Debug\netcoreapp2.1\dcp439.runtimeconfig.json
+F:\asp.netProject\dcp439\dcp439\bin\Debug\netcoreapp2.1\dcp439.runtimeconfig.dev.json
+F:\asp.netProject\dcp439\dcp439\bin\Debug\netcoreapp2.1\dcp439.dll
+F:\asp.netProject\dcp439\dcp439\bin\Debug\netcoreapp2.1\dcp439.pdb
+F:\asp.netProject\dcp439\dcp439\obj\Debug\netcoreapp2.1\dcp439.csproj.CoreCompileInputs.cache
+F:\asp.netProject\dcp439\dcp439\obj\Debug\netcoreapp2.1\dcp439.AssemblyInfoInputs.cache
+F:\asp.netProject\dcp439\dcp439\obj\Debug\netcoreapp2.1\dcp439.AssemblyInfo.cs
+F:\asp.netProject\dcp439\dcp439\obj\Debug\netcoreapp2.1\dcp439.dll
+F:\asp.netProject\dcp439\dcp439\obj\Debug\netcoreapp2.1\dcp439.pdb

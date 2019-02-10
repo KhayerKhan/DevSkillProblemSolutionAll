@@ -1,0 +1,10 @@
+F:\asp.netProject\DCP_425\DCP_425\bin\Debug\netcoreapp2.1\DCP_425.deps.json
+F:\asp.netProject\DCP_425\DCP_425\bin\Debug\netcoreapp2.1\DCP_425.runtimeconfig.json
+F:\asp.netProject\DCP_425\DCP_425\bin\Debug\netcoreapp2.1\DCP_425.runtimeconfig.dev.json
+F:\asp.netProject\DCP_425\DCP_425\bin\Debug\netcoreapp2.1\DCP_425.dll
+F:\asp.netProject\DCP_425\DCP_425\bin\Debug\netcoreapp2.1\DCP_425.pdb
+F:\asp.netProject\DCP_425\DCP_425\obj\Debug\netcoreapp2.1\DCP_425.csproj.CoreCompileInputs.cache
+F:\asp.netProject\DCP_425\DCP_425\obj\Debug\netcoreapp2.1\DCP_425.AssemblyInfoInputs.cache
+F:\asp.netProject\DCP_425\DCP_425\obj\Debug\netcoreapp2.1\DCP_425.AssemblyInfo.cs
+F:\asp.netProject\DCP_425\DCP_425\obj\Debug\netcoreapp2.1\DCP_425.dll
+F:\asp.netProject\DCP_425\DCP_425\obj\Debug\netcoreapp2.1\DCP_425.pdb
